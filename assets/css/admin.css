@@ -1,0 +1,24 @@
+@import 'bootstrap.min.css';
+@import 'font.css';
+.aryaWrapper {
+    font-family: "IRANYekan", "IRANSansEn";
+    padding: 0 2rem 0 2px;
+}
+.aryaWrapper .alert {
+    margin-bottom: 0;
+    margin-top: 1rem;
+}
+.aryaWrapper .card-body {
+    padding-right: 0;
+    padding-left: 0;
+}
+.aryaWrapper .copyright {
+    margin-top: 2rem;
+}
+.rtl .aryaWrapper {
+    font-family: "IRANYekan", "IRANSans";
+    padding: 0 2px 0 2rem;
+}
+.aryaWrapper .hidden {
+    display: none;
+}
